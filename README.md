@@ -6,11 +6,8 @@
 ### <div align="center">👋 Hi, I’m Taha Kaya</div>  
   
 
-<div align="center">👩‍💻 I'm currently a third year computer engineering student. .</div>  
-  
-
-<div align="center">💻 I'm currently advancing my projects on Angular.JS and Spring Boot..</div>  
-  
+<div align="center">👩‍💻 I'm currently a fourth year computer engineering student. .</div>  
+    
 
 <div align="center">👀 You can check my LinkedIn account.
 </div>  
