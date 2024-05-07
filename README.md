@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="(https://www.svgrepo.com/show/353443/aws.svg)" height="80" alt="amazonwebservices logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="80" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
   <img width="12" />
