@@ -18,19 +18,18 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Kasım Taha<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning DevOps tools</p>
+<p align="center">I'm Kasım Taha<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning DevOps tools</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
