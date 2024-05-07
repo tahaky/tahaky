@@ -69,6 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="80" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="80" alt="unity logo"  />
+    <img width="12" />
+  <img src="https://dltlandscape.hyperledger.org/logos/hyperledger-indy.svg" height="80" alt="unity logo"  />
 </div>
 
 
