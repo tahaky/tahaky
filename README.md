@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="5000" src="https://gifdb.com/images/high/hello-from-baby-grogu-p3uati7mf96d4mss.gif"  />
+  <img height="300" src="https://p.vitalmtb.com/photos/users/323/videos/26422/original.png?VersionId=CRwIjHrhpelofy5uhTQNWRaL1FDow6VB"  />
 </div>
 
 ###
