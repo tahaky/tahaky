@@ -25,7 +25,6 @@
 
 ###
 
-<p align="center">I'm Kasım Taha<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I am currently working on Blockchain</p>
 
 ###
 
